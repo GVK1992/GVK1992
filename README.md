@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @GVK1992
 - 👀 I’m interested in learning New Skills
-- 🌱 Languages ‐ Java, C, Python, C#
+- 🌱 Languages ‐ Java, C, Python, C#.
 Web development ‐ HTML 5, CSS 3, JavaScript, MERN stack, Django.
-Database ‐ MySQL, MongoDB, SQL Server
-Operating System ‐ Windows, Linux ﴾Basics﴿, Ubuntu
-Data Science ‐ Data Cleaning, Data Mining, Data Visualization and ML Algorithms
-Application Development ‐ ASP.net, Entity Framework, MVC Framework
+Database ‐ MySQL, MongoDB, SQL Server.
+Operating System ‐ Windows, Linux ﴾Ubuntu﴿.
+Data Science ‐ Data Cleaning, Data Mining, Data Visualization and ML Algorithms.
+Application Development ‐ ASP.net, Entity Framework, MVC Framework.
 - 📫 contact me at gunukulakiran@gmail.com
 
 <!---
